@@ -1,0 +1,54 @@
+.section {
+    padding: 10px 0;
+}
+.section-one {
+    background-color: #031333;
+}
+h2 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+}
+strong {
+    color: orangered;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.p {
+    color: #F4F3F3;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+}
+.button {
+    background-color: orange;
+    padding: 16px;
+    color: white;
+    text-decoration: none;
+}
+.section-two {
+    background-color: white;
+    padding: 75px 0;
+}
+.serve {
+    color: #274C5B;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-bottom: 16px;
+}
+.section-tree {
+    background-color: rgb(243, 243, 226);
+    padding: 75px 0;
+}
